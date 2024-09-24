@@ -1,1 +1,2 @@
 git+https://github.com/martineberlein/evogfuzzplusplus.git
+git+https://github.com/martineberlein/avicenna.git
